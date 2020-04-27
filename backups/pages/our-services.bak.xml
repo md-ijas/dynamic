@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 18 Apr 2020 09:26:49 +0200</pubDate><title><![CDATA[Our Services]]></title><url><![CDATA[our-services]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[inner-pages.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;section class=&quot;about&quot; id=&quot;about&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-12 pt-4 pt-lg-0&quot;&gt;
+			&lt;p class=&quot;text-center&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id pellentesque metus, quis sodales ex. Ut laoreet feugiat efficitur. Aliquam augue ex, convallis vitae faucibus eu, convallis vitae enim. Sed nec enim volutpat, efficitur massa sed, ornare metus. Aenean vestibulum dolor eget mauris ornare, et fermentum tortor faucibus. Donec ex neque, tincidunt varius magna tristique, laoreet ultrices lacus. Nullam id leo sed nisi mollis faucibus eget vel nisi. Pellentesque venenatis gravida dui ac volutpat.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;services&quot; id=&quot;services&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-4 col-md-6 d-flex align-items-stretch&quot;&gt;
+			&lt;div class=&quot;icon-box&quot;&gt;&lt;img src=&quot;data/uploads/image1.jpg&quot; width=&quot;100%&quot; /&gt;&lt;br /&gt;
+				&amp;nbsp;
+				&lt;h4&gt;&lt;a href=&quot;&quot;&gt;Security Guards&lt;/a&gt;&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0&quot;&gt;
+			&lt;div class=&quot;icon-box&quot;&gt;&lt;img src=&quot;data/uploads/image2.jpg&quot; width=&quot;100%&quot; /&gt;&lt;br /&gt;
+				&amp;nbsp;
+				&lt;h4&gt;&lt;a href=&quot;&quot;&gt;Armed Guards&lt;/a&gt;&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0&quot;&gt;
+			&lt;div class=&quot;icon-box&quot;&gt;&lt;img src=&quot;data/uploads/image3.jpg&quot; width=&quot;100%&quot; /&gt;&lt;br /&gt;
+				&amp;nbsp;
+				&lt;h4&gt;&lt;a href=&quot;&quot;&gt;CCTV Operations&lt;/a&gt;&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4 col-md-6 d-flex align-items-stretch mt-4&quot;&gt;
+			&lt;div class=&quot;icon-box&quot;&gt;&lt;img src=&quot;data/uploads/image4.jpg&quot; width=&quot;100%&quot; /&gt;&lt;br /&gt;
+				&amp;nbsp;
+				&lt;h4&gt;&lt;a href=&quot;&quot;&gt;Guard Patrolling&lt;/a&gt;&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4 col-md-6 d-flex align-items-stretch mt-4&quot;&gt;
+			&lt;div class=&quot;icon-box&quot;&gt;&lt;img src=&quot;data/uploads/image5.jpg&quot; width=&quot;100%&quot; /&gt;&lt;br /&gt;
+				&amp;nbsp;
+				&lt;h4&gt;&lt;a href=&quot;&quot;&gt;Alcohol Testers Guards&lt;/a&gt;&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4 col-md-6 d-flex align-items-stretch mt-4&quot;&gt;
+			&lt;div class=&quot;icon-box&quot;&gt;&lt;img src=&quot;data/uploads/image6.jpg&quot; width=&quot;100%&quot; /&gt;&lt;br /&gt;
+				&amp;nbsp;
+				&lt;h4&gt;&lt;a href=&quot;&quot;&gt;Material Movements&lt;/a&gt;&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;text-right col-md-12&quot;&gt;&lt;br /&gt;
+			&lt;a class=&quot;button&quot; href=&quot;contact-us.html&quot;&gt;Enquire Now&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- End Services Section --&gt;
+
+&lt;section id=&quot;&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;section-title&quot;&gt;
+		&lt;h2&gt;Security Equipments&lt;/h2&gt;
+
+		&lt;p class=&quot;text-center&quot;&gt;Basic items and instruments that we provide&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-3 col-md-3&quot;&gt;
+			&lt;ul&gt;
+				&lt;li&gt;Lattis&lt;/li&gt;
+				&lt;li&gt;Uniform&lt;/li&gt;
+				&lt;li&gt;Whistles&lt;/li&gt;
+				&lt;li&gt;Umbrellas&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-3 col-md-3&quot;&gt;
+			&lt;ul&gt;
+				&lt;li&gt;Torch lights&lt;/li&gt;
+				&lt;li&gt;Safety shoes&lt;/li&gt;
+				&lt;li&gt;Safety apron&lt;/li&gt;
+				&lt;li&gt;Security Hooters&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-3 col-md-3&quot;&gt;
+			&lt;ul&gt;
+				&lt;li&gt;IN &amp;amp; OUT Counters&lt;/li&gt;
+				&lt;li&gt;Walkie Talkie – Radios&lt;/li&gt;
+				&lt;li&gt;Convex Security Mirrors&lt;/li&gt;
+				&lt;li&gt;Handheld Metal Detectors&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-3 col-md-3&quot;&gt;
+			&lt;ul&gt;
+				&lt;li&gt;Under Vehicle Search System&lt;/li&gt;
+				&lt;li&gt;Handheld Search Torch Lights&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><customtitle><![CDATA[Our Services]]></customtitle><creDate>Sat, 18 Apr 2020 09:26:49 +0200</creDate><user><![CDATA[admin]]></user></item>

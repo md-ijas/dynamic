@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 20 Apr 2020 09:53:07 +0200</pubDate><title><![CDATA[About Us]]></title><url><![CDATA[about-us]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[About Us]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[inner-pages.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;section class=&quot;about&quot; id=&quot;about&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-6&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;img-fluid&quot; src=&quot;data/uploads/about-us.jpg&quot; /&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-6 pt-4 pt-lg-0 content&quot;&gt;
+			&lt;p class=&quot;text-justify&quot;&gt;Falcon Ind Security Services, established in the year 2010, is recognized as one of the premier corporate security service providers located in Hosur with more than 350 well-trained security professionals. We understand that each one of our clients have different security needs. Therefore, we offer a comprehensive suite of integrated and bespoke security services to more than 50+ clients.&lt;/p&gt;
+
+			&lt;p class=&quot;text-justify&quot;&gt;Operating out of Hosur, our services span from Attibele to Salem region. We extend our services across sectors such as technology, manufacturing, government, banking, retail, entertainment and e-commerce, among many others.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;featured&quot; id=&quot;featured&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;div class=&quot;icon-box&quot;&gt;&lt;i class=&quot;icofont-eye-alt&quot;&gt;&lt;/i&gt;
+
+				&lt;h3&gt;&lt;a href=&quot;&quot;&gt;Our Vision&lt;/a&gt;&lt;/h3&gt;
+
+				&lt;p&gt;Ensuring a peaceful, healthy and secure environment where our employees, clients and stakeholders can add value to their productivity and performance.&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4 mt-4 mt-lg-0&quot;&gt;
+			&lt;div class=&quot;icon-box&quot;&gt;&lt;i class=&quot;icofont-bullseye&quot;&gt;&lt;/i&gt;
+
+				&lt;h3&gt;&lt;a href=&quot;&quot;&gt;Our Mission&lt;/a&gt;&lt;/h3&gt;
+
+				&lt;p&gt;To achieve a leading position in the industry by offering quality security services par excellence to our stakeholders.&lt;/p&gt;&lt;br&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4 mt-4 mt-lg-0&quot;&gt;
+			&lt;div class=&quot;icon-box&quot;&gt;&lt;i class=&quot;icofont-verification-check&quot;&gt;&lt;/i&gt;
+
+				&lt;h3&gt;&lt;a href=&quot;&quot;&gt;Our Value&lt;/a&gt;&lt;/h3&gt;
+
+				&lt;p&gt;Our commitment to the quality of service that guarantees efficient, effective, vigilant and world-class services to our clients.&lt;/p&gt;&lt;br&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section id=&quot;&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-7 col-md-7&quot;&gt;
+			&lt;h2&gt;&lt;b&gt;A Glad Note&lt;/b&gt;&lt;/h2&gt;
+
+			&lt;p class=&quot;text-justify&quot;&gt;In our company’s working history, we have never violated any statutory compliance; we have kept all our clients secured &amp;amp; happy. Our contract agreement was never withdrawn in less than two years. Our legacy is always appreciated.&lt;/p&gt;
+
+			&lt;p class=&quot;text-justify&quot;&gt;We have dedicated field officers to address your concerns. We do quarterly/half yearly internal audits of our gate registers to ensure perfection and to help our clients in getting Zero Audit points with respect to the security service.&lt;/p&gt;
+
+			&lt;p class=&quot;text-justify&quot;&gt;We also engage in Securing, and organizing multi discipline events like Seminars, Parties, Get-togethers, Religious &amp;amp; Ritual Ceremonies, Cultural/ Social Events.&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-5 col-md-5&quot;&gt;&lt;img class=&quot;box&quot; src=&quot;data/uploads/certificate.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;testimonials&quot; id=&quot;testimonials&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;section-title&quot;&gt;
+		&lt;h2&gt;Testimonials&lt;/h2&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-6&quot;&gt;
+			&lt;div class=&quot;testimonial-item&quot;&gt;
+				&lt;p&gt;&lt;i class=&quot;bx bxs-quote-alt-left quote-icon-left&quot;&gt;&lt;/i&gt; Excellent service management. Employee friendly, prompt in making govt statutes. Regular feedback visits, night checks, electronic devices, scanners, amenities, CCTV, detectors, online trackers.. Way to go.. Changing the dimensions of the service industry. &lt;i class=&quot;bx bxs-quote-alt-right quote-icon-right&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+				&lt;h3&gt;Adanga T&lt;/h3&gt;
+
+				&lt;h4&gt;Hosur&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-6&quot;&gt;
+			&lt;div class=&quot;testimonial-item mt-4 mt-lg-0&quot;&gt;
+				&lt;p&gt;&lt;i class=&quot;bx bxs-quote-alt-left quote-icon-left&quot;&gt;&lt;/i&gt; Excellent management and approachable. Well trained securities and provide good service with reasonable cost, one of the licensed agency in Hosur area to provide good quality of service. I strongly recommend. &lt;i class=&quot;bx bxs-quote-alt-right quote-icon-right&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+				&lt;h3&gt;Suganya J&lt;/h3&gt;
+
+				&lt;h4&gt;Hosur&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-6&quot;&gt;
+			&lt;div class=&quot;testimonial-item mt-4&quot;&gt;
+				&lt;p&gt;&lt;i class=&quot;bx bxs-quote-alt-left quote-icon-left&quot;&gt;&lt;/i&gt; Most trusted security services. Salute your work. Keep it up &lt;i class=&quot;bx bxs-quote-alt-right quote-icon-right&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+				&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;h3&gt;Malarraj Sudanthiramani&lt;/h3&gt;
+
+				&lt;h4&gt;Hosur&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-6&quot;&gt;
+			&lt;div class=&quot;testimonial-item mt-4&quot;&gt;
+				&lt;p&gt;&lt;i class=&quot;bx bxs-quote-alt-left quote-icon-left&quot;&gt;&lt;/i&gt; One of THE most professional and best service providers in Hosur area. No oldies unlike other companies with effective guard replacement and frequent night rounds. Highly recommended. &lt;i class=&quot;bx bxs-quote-alt-right quote-icon-right&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+				&lt;h3&gt;Adithya Anuroop&lt;/h3&gt;
+
+				&lt;h4&gt;Hosur&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-6&quot;&gt;
+			&lt;div class=&quot;testimonial-item mt-4&quot;&gt;
+				&lt;p&gt;&lt;i class=&quot;bx bxs-quote-alt-left quote-icon-left&quot;&gt;&lt;/i&gt; They provide very professional service with their well trained members. Management is always available to address all our concerns/issues.&lt;i class=&quot;bx bxs-quote-alt-right quote-icon-right&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+				&lt;h3&gt;Prak Kris&lt;/h3&gt;
+
+				&lt;h4&gt;Hosur&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-6&quot;&gt;
+			&lt;div class=&quot;testimonial-item mt-4&quot;&gt;
+				&lt;p&gt;&lt;i class=&quot;bx bxs-quote-alt-left quote-icon-left&quot;&gt;&lt;/i&gt; Professional, responsive and accountable. Loved the service and would recommend &lt;i class=&quot;bx bxs-quote-alt-right quote-icon-right&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+				&lt;h3&gt;Palaniappan Krishnan&lt;/h3&gt;
+
+				&lt;h4&gt;Hosur&lt;/h4&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><customtitle><![CDATA[]]></customtitle><creDate>Sat, 18 Apr 2020 09:23:19 +0200</creDate><user><![CDATA[admin]]></user></item>

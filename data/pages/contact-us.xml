@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 18 Apr 2020 10:47:55 +0200</pubDate><title><![CDATA[Contact Us]]></title><url><![CDATA[contact-us]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Contact Us]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[contact-us.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-lg-6&quot;&gt;
+		&lt;div class=&quot;info-box mb-4&quot;&gt;&lt;i class=&quot;bx bx-map&quot;&gt;&lt;/i&gt;
+			&lt;h3&gt;Our Address&lt;/h3&gt;
+
+			&lt;p&gt;&lt;b&gt;Falcon Ind Security Service&lt;/b&gt;&lt;br&gt;ICICI ATM Complex, Mookandapalli bus stop,&lt;br /&gt;
+				Sipcot phase I, Hosur-635126, Tamil Nadu, India.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-lg-3 col-md-6&quot;&gt;
+		&lt;div class=&quot;info-box  mb-4&quot;&gt;&lt;i class=&quot;bx bx-envelope&quot;&gt;&lt;/i&gt;
+
+			&lt;h3&gt;Email Us&lt;/h3&gt;
+
+			&lt;p&gt;&lt;a href=&quot;mailid:info@fissweb.com&quot; style=&quot;color:#000&quot;&gt;info@fissweb.com&lt;/a&gt;&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-lg-3 col-md-6&quot;&gt;
+		&lt;div class=&quot;info-box  mb-4&quot;&gt;&lt;i class=&quot;bx bx-phone-call&quot;&gt;&lt;/i&gt;
+
+			&lt;h3&gt;Call Us&lt;/h3&gt;
+
+			&lt;p&gt;&lt;a href=&quot;tel:9944287173&quot; style=&quot;color:#000&quot;&gt;9944287173&lt;/a&gt;&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><customtitle><![CDATA[Contact Us]]></customtitle><creDate>Sat, 18 Apr 2020 09:59:14 +0200</creDate><user><![CDATA[admin]]></user></item>

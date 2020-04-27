@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 18 Apr 2020 10:53:58 +0200</pubDate><title><![CDATA[404 Page]]></title><url><![CDATA[404-page]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[404 Page]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;b&gt;404 Page Not Found&lt;/b&gt;&lt;/h2&gt;
+
+			&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a style=&quot;color:#000&quot; href=&quot;index.html&quot;&gt;&lt;b&gt;Home&lt;/b&gt;&lt;/a&gt; | &lt;a style=&quot;color:#000&quot; href=&quot;contact-us.html&quot;&gt;&lt;b&gt;Contact Us&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><customtitle><![CDATA[404 Page]]></customtitle><creDate>Sat, 18 Apr 2020 10:50:37 +0200</creDate><user><![CDATA[admin]]></user></item>
