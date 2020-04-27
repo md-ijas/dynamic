@@ -1,8 +1,3 @@
-#
-# GetSimple CMS htaccess ROOT file
-# apache 2.4 
-#
-
 # The following require certain allow overrides, if getting 500 error comment them out one by one 
 # can be resolved in apache httpd.conf to ensure security alternatives
 
